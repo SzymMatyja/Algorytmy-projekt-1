@@ -1,0 +1,12 @@
+﻿  ReverseIntro.cpp
+C:\kody\cpp kody\AlgorytmyPart1\ReverseIntro\ReverseIntro.cpp(109,20): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+      C:\kody\cpp kody\AlgorytmyPart1\ReverseIntro\ReverseIntro.cpp(109,20):
+      kontekst tworzenia wystąpienia szablonu (najpierw najstarszy) to
+          C:\kody\cpp kody\AlgorytmyPart1\ReverseIntro\ReverseIntro.cpp(138,13):
+          zobacz odwołanie do kompilowanego tworzenia wystąpienia „void IntroSort<int>(T [],int)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+  
+  ReverseIntro.vcxproj -> C:\kody\cpp kody\AlgorytmyPart1\ReverseIntro\x64\Debug\ReverseIntro.exe
